@@ -1,4 +1,4 @@
-**devops_assignment2_part2**
+**devops_assignment2_part1**
 
 **Step 1**
 
